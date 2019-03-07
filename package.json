@@ -1,7 +1,7 @@
 {
   "name": "react-tutorial",
   "version": "0.1.0",
-  "homepage": "https://github.com/hunqi/react-tutorial"
+  "homepage": "https://github.com/hunqi/react-tutorial",
   "private": true,
   "dependencies": {
     "react": "^16.8.3",
